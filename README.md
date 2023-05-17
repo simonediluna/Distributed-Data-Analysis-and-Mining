@@ -1,6 +1,3 @@
-# Distributed Data-Analysis and Mining
-An academic project carried out for the Distributed Data Analysis and Mining course (a. y. 2022/2023). 
-
 # Methodology
 
 The project was carried out with a local dataset but simulating a distributed scenario using **Apache Spark**. Therefore, I utilized pandas only when I needed to display a variety of short dataframes or series, such as summary tables, and I used **PySpark** in a distributed fashion in all other situations.
