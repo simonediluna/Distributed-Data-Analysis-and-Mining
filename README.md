@@ -2,8 +2,10 @@
 
 The project was carried out with a local dataset but simulating a distributed scenario using **Apache Spark**. Therefore, I utilized pandas only when I needed to display a variety of short dataframes or series, such as summary tables, and I used **PySpark** in a distributed fashion in all other situations.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="200">
-
+<a href="https://spark.apache.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="200">
+</a>
+  
 # Project tasks
 
 * Pre-processing:
